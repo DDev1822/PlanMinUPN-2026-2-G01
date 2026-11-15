@@ -1,0 +1,11 @@
+{
+  "schema": "g01-products/1",
+  "S11": {
+    "manifest": "outputs\\g01_s11\\03b42697a864bb6f88e8\\manifest.json",
+    "run_id": "03b42697a864bb6f88e8"
+  },
+  "S12": {
+    "manifest": "outputs\\g01_s12\\6a0abc5cdd8fa86ee4a0\\manifest.json",
+    "run_id": "6a0abc5cdd8fa86ee4a0"
+  }
+}

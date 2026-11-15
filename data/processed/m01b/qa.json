@@ -1,0 +1,42 @@
+{
+  "group": "G01",
+  "dataset": "DS01",
+  "composites": 3632,
+  "blocks": 19734,
+  "topography": {
+    "ROCK": 12367,
+    "OUTSIDE_TOPO_COVERAGE": 1131,
+    "PARTIAL": 1050,
+    "AIR": 5186
+  },
+  "lithology": {
+    "UNASSIGNED": 10311,
+    "NOT_ELIGIBLE": 7367,
+    "ASSIGNED": 2056
+  },
+  "assigned_codes": {
+    "DIO": 1029,
+    "POR": 929,
+    "BRX": 89,
+    "REG": 9
+  },
+  "grid_origin_m": [
+    242263.825802219,
+    8196145.039005655,
+    3067.83548248
+  ],
+  "block_size_m": [
+    25.0,
+    25.0,
+    10.0
+  ],
+  "grid_shape": [
+    23,
+    22,
+    39
+  ],
+  "topo_max_xy_m": 10.0,
+  "lith_max_xyz_m": 26.926,
+  "formal_crs": "UNKNOWN",
+  "method": "nearest_topo_9_queries_and_finite_segment_distance"
+}
